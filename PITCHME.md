@@ -5,6 +5,7 @@
 @snapend
 
 @snap[south-west list-content-concise span-100]
+<br>
 @ol[list-bullets-black](false)
 - 今回紹介したプログラムの機能拡張をする
 - GUIで操作できるようにする
