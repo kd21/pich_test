@@ -1,6 +1,8 @@
 @title[Title + Concise List]
 
-@snap [north-west]改良の方法、方向性は自由！ @snapend
+@snap [north-west]
+改良の方法、方向性は自由！
+@snapend
 
 @snap[south-west list-content-concise span-100]
 @ol[list-bullets-black](false)
