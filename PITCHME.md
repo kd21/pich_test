@@ -1,7 +1,7 @@
 @title[Title + Concise List]
 
 @snap[north-west]
-The Agenda
+改良の方法、方向性は自由！
 @snapend
 
 @snap[south-west list-content-concise span-100]
