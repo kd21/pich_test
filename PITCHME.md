@@ -1,3 +1,5 @@
+@title[Title + Concise List]
+
 @snap[north-west]
 The Agenda
 @snapend
@@ -15,7 +17,7 @@ The Agenda
 @olend
 <br><br>
 @snapend
-+++
+
 
 ## Hola!
 
