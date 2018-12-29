@@ -1,4 +1,7 @@
-## 改善の方法、方向性は自由！
+@snap[north-west]
+The Agenda
+@snapend
+
 @snap[south-west list-content-concise span-100]
 @ol[list-bullets-black](false)
 - Lorem ipsum dolor sit amet
